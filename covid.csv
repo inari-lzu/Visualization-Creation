@@ -1,0 +1,17 @@
+Month,2021Vaccine,2020Con,2020Death,2021Con,2021Death,Vaccination status,"Deaths involving 
+COVID-19","Non-COVID-19 
+deaths","COVID-19 deaths
+as percent of 
+all deaths"
+20-Jan,7.59,8,0,6151254,96653,All deaths regardless of vaccination status,"51,281","214,701",19.3
+20-Feb,14.99,17,1,2402049,65786,Unvaccinated,"38,964","65,170",37.4
+20-Mar,29.4,192054,5358,1813385,37263,Deaths within 21 days of first dose,"4,388","14,265",23.5
+20-Apr,43.64,888998,60795,1889338,23892,Deaths 21 days or more after first dose?,"7,289","66,533",9.9
+20-May,50.52,718605,41520,918790,18346,Deaths within 21 days of second dose,182,"11,470",1.6
+20-Jun,54.42,843522,19691,399850,10554,Deaths 21 days or more after second dose?,458,"57,263",0.8
+20-Jul,57.53,1923769,26463,1316772,8703,,,,
+20-Aug,61.76,1458820,29555,4289554,27915,,,,
+20-Sep,64.56,1208720,23497,4145106,58677,,,,
+20-Oct,66.72,1935031,24635,2496799,47287,,,,
+20-Nov,68.12,4515427,39312,2542122,36101,,,,
+20-Dec,,6476629,80927,,,,,,
